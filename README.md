@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CPO-EH
 - 👀 I’m interested in malware RE, Offensive Security stuff and many other things
-- 🌱 I’m currently learning ... so much Stuff to learn can't enumerate them all
+- 🌱 I’m always learning ... so much Stuff to learn can't enumerate them all
 - 💞️ I’m looking to collaborate on ... Not yet
 - 📫 How to reach me ... easy thing
 
